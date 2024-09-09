@@ -1,0 +1,20 @@
+/*styles.css*/
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #282c34;
+    color: #61dafb;
+    font-family: "arial", sans-serif;
+
+}
+.clock{
+    font-size: 5rem;
+    padding: 20px;
+    border: 5px solid#61dafb;
+    border-radius: 10px;
+    background-color: #282c34;
+    text-align: center;
+}
